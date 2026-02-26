@@ -4883,6 +4883,17 @@
         "ideas",
         "research"
       ]
+    },
+    {
+      "login": "egerminario",
+      "name": "egerminario",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160625080?v=4",
+      "profile": "https://github.com/egerminario",
+      "contributions": [
+        "question",
+        "bug",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
